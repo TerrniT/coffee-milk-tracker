@@ -1,6 +1,9 @@
 # Coffee Milk Tracker Widget
 ![preview](https://d2w9rnfcy7mm78.cloudfront.net/25962540/original_aca5ecc36d24b80e4df9b98320ee76b0.gif?1706345242?bc=0)
 
+
+## Legenda 
+I created a widget that I will move to the [personal page](https://github.com/TerrniT/personal-page) 
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
