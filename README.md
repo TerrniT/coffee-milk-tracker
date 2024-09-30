@@ -1,18 +1,5 @@
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+# Coffee Milk Tracker Widget
+![preview](https://d2w9rnfcy7mm78.cloudfront.net/25962540/original_aca5ecc36d24b80e4df9b98320ee76b0.gif?1706345242?bc=0)
 
 ## Developing
 
